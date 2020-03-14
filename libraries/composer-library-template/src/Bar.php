@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace ridvanaltun\ComposerPackageTemplate;
+namespace ridvanaltun\ComposerLibraryTemplate;
 
 class Bar
 {

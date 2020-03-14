@@ -1,6 +1,6 @@
 {
-  "name": "ridvanaltun/composer-package-template",
-  "description": "A simple template.",
+  "name": "ridvanaltun/composer-library-template",
+  "description": "A simple library.",
   "type": "library",
   "require": {
     "guzzlehttp/guzzle": "^6.5"
@@ -17,7 +17,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "ridvanaltun\\ComposerPackageTemplate\\": "src/"
+      "ridvanaltun\\ComposerLibraryTemplate\\": "src/"
     }
   },
   "minimum-stability": "stable"

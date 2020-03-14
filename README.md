@@ -1,6 +1,6 @@
-# Composer Package Template
+# Composer Library Template
 
-This repo aims help me to develop composer packages more easily.
+This repo aims help me to develop composer libraries more easily.
 
 ## Usage
 
