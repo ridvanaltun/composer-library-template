@@ -1,0 +1,28 @@
+{
+    "name": "ridvanaltun/project-template",
+    "description": "A sample project.",
+    "type": "project",
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^2.16"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rıdvan Altun",
+            "email": "ridvanaltun@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+		"ridvanaltun/composer-package-template": "dev-master"
+	},
+	"repositories": [
+		{
+			"type": "path",
+			"url": "./packages/composer-package-template",
+			"options": {
+				"symlink": true
+			}
+		}
+    ]
+}
